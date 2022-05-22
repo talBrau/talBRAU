@@ -3,9 +3,11 @@ I am a software developer studying Computer Science at the _Hebrew University in
 
 with a Game Design minor at _Bezalel Academy of Arts and Design_.
 
-![](https://github.com/talBrau/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/talBrau/github-stats/blob/master/generated/languages.svg)
-
+<p align='center'>
+  <a href="https://github.com/jstrieb/github-stats"><img src="https://github.com/talBrau/github-stats/blob/master/generated/overview.svg"></a>
+  
+<!--   <a href="https://github.com/jstrieb/github-stats"><img src="https://github.com/talBrau/github-stats/blob/master/generated/languages.svg"></a> -->
+</p>
 
 <!--
 **talBrau/talBRAU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
