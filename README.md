@@ -10,8 +10,8 @@ with a Game Design minor at _Bezalel Academy of Arts and Design_.
 
 
 <p align='center'>
-  <a href="https://github.com/jstrieb/github-stats"><img src="https://github.com/talBrau/Git-Stats-Copy/blob/master/generated/overview.svg"></a>
-  <a href="https://github.com/jstrieb/github-stats"><img src="https://github.com/talBrau/Git-Stats-Copy/blob/master/generated/languages.svg"></a>
+  <a><img src="https://github.com/talBrau/Git-Stats-Copy/blob/master/generated/overview.svg"></a>
+  <a><img src="https://github.com/talBrau/Git-Stats-Copy/blob/master/generated/languages.svg"></a>
 </p>
 
 <!--
