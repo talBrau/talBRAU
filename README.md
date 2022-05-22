@@ -1,4 +1,11 @@
-### Hi there 👋
+### About me
+I am a software developer studying Computer Science at the _Hebrew University in Jerusalem_ 
+
+with a Game Design minor at _Bezalel Academy of Arts and Design_.
+
+![](https://github.com/talBrau/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/talBrau/github-stats/blob/master/generated/languages.svg)
+
 
 <!--
 **talBrau/talBRAU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
