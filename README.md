@@ -1,12 +1,17 @@
+<h1 align = 'center'>
+  Tal Brauner
+  </h1>
+
 ### About me
 I am a software developer studying Computer Science at the _Hebrew University in Jerusalem_ 
 
 with a Game Design minor at _Bezalel Academy of Arts and Design_.
 
+
+
 <p align='center'>
-  <a href="https://github.com/jstrieb/github-stats"><img src="https://github.com/talBrau/github-stats/blob/master/generated/overview.svg"></a>
-  
-<!--   <a href="https://github.com/jstrieb/github-stats"><img src="https://github.com/talBrau/github-stats/blob/master/generated/languages.svg"></a> -->
+  <a href="https://github.com/jstrieb/github-stats"><img src="https://github.com/talBrau/Git-Stats-Copy/blob/master/generated/overview.svg"></a>
+  <a href="https://github.com/jstrieb/github-stats"><img src="https://github.com/talBrau/Git-Stats-Copy/blob/master/generated/languages.svg"></a>
 </p>
 
 <!--
