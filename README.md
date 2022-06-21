@@ -7,6 +7,12 @@ I am a software developer studying Computer Science at the _Hebrew University in
 
 with a Game Design minor at _Bezalel Academy of Arts and Design_.
 
+<h2 align="center">
+  <a href="https://www.linkedin.com/in/tal-brauner/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="130" height="35"/>
+  <a href="https://talbrauner.itch.io/">
+    <img src="https://leafo.net/igjc-presentation/itchio-logo.png" width="130" height="35"/></a>
+</h2>
 
 
 <p align='center'>
