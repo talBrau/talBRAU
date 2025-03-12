@@ -3,9 +3,11 @@
   </h1>
 
 ### HI THERE
-I am a software developer studying Computer Science at the _Hebrew University in Jerusalem_ 
+I am a creative software developer. I studied Computer Science at the _Hebrew University in Jerusalem_ 
 
-with a Game Design minor at _Bezalel Academy of Arts and Design_. 
+with a Game Design minor at _Bezalel Academy of Arts and Design_.
+
+Currently im working on HCI research and some personal interactive ai projects. 
 
 <h2 align="center">
   <a href="https://www.linkedin.com/in/tal-brauner/">
